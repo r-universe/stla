@@ -1,0 +1,170 @@
+[
+  {
+    "package": "aceEditor",
+    "oncran": true
+  },
+  {
+    "package": "Carlson",
+    "oncran": true
+  },
+  {
+    "package": "cppcheckR",
+    "oncran": true
+  },
+  {
+    "package": "cxhull",
+    "oncran": true
+  },
+  {
+    "package": "EigenR",
+    "oncran": true
+  },
+  {
+    "package": "findInFiles",
+    "oncran": true
+  },
+  {
+    "package": "findInGit",
+    "oncran": true
+  },
+  {
+    "package": "gbeta",
+    "oncran": true
+  },
+  {
+    "package": "gfiExtremes",
+    "oncran": true
+  },
+  {
+    "package": "gfilmm",
+    "oncran": true
+  },
+  {
+    "package": "gfiUltra",
+    "oncran": true
+  },
+  {
+    "package": "gmpoly",
+    "oncran": true
+  },
+  {
+    "package": "graph3d",
+    "oncran": true
+  },
+  {
+    "package": "gyro",
+    "oncran": true
+  },
+  {
+    "package": "html2R",
+    "oncran": true
+  },
+  {
+    "package": "HypergeoMat",
+    "oncran": true
+  },
+  {
+    "package": "jack",
+    "oncran": true
+  },
+  {
+    "package": "JSconsole",
+    "oncran": true
+  },
+  {
+    "package": "jshintr",
+    "oncran": true
+  },
+  {
+    "package": "jsonStrings",
+    "oncran": true
+  },
+  {
+    "package": "jsTreeR",
+    "oncran": true
+  },
+  {
+    "package": "kantorovich",
+    "oncran": true
+  },
+  {
+    "package": "matrixsampling",
+    "oncran": true
+  },
+  {
+    "package": "monaco",
+    "oncran": true
+  },
+  {
+    "package": "OwenQ",
+    "oncran": true
+  },
+  {
+    "package": "pasteAsComment",
+    "oncran": true
+  },
+  {
+    "package": "PlaneGeometry",
+    "oncran": true
+  },
+  {
+    "package": "prettifyAddins",
+    "oncran": true
+  },
+  {
+    "package": "pylintR",
+    "oncran": true
+  },
+  {
+    "package": "rAmCharts4",
+    "oncran": true
+  },
+  {
+    "package": "RCDT",
+    "oncran": true
+  },
+  {
+    "package": "Rnvd3",
+    "oncran": true
+  },
+  {
+    "package": "shinyChakraSlider",
+    "oncran": true
+  },
+  {
+    "package": "shinyChakraUI",
+    "oncran": true
+  },
+  {
+    "package": "shinyMergely",
+    "oncran": true
+  },
+  {
+    "package": "shinyMonacoEditor",
+    "oncran": true
+  },
+  {
+    "package": "shinySelect",
+    "oncran": true
+  },
+  {
+    "package": "shinyToastify",
+    "oncran": true
+  },
+  {
+    "package": "syt",
+    "oncran": true
+  },
+  {
+    "package": "tessellation",
+    "oncran": true
+  },
+  {
+    "package": "thorn",
+    "oncran": true
+  },
+  {
+    "package": "uniformly",
+    "oncran": true
+  }
+]
