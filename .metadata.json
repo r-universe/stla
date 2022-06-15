@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "concom",
+    "oncran": true
+  },
+  {
     "package": "cppcheckR",
     "oncran": true
   },
