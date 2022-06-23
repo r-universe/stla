@@ -93,6 +93,11 @@
 	url = https://github.com/stla/jackr
 	shallow = true
 	registered = true
+[submodule "jacobi"]
+	path = jacobi
+	url = https://github.com/stla/jacobi
+	shallow = true
+	registered = true
 [submodule "JSconsole"]
 	path = JSconsole
 	url = https://github.com/stla/jsconsole
@@ -126,6 +131,11 @@
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/stla/monaco
+	shallow = true
+	registered = true
+[submodule "multiActionButton"]
+	path = multiActionButton
+	url = https://github.com/stla/multiactionbutton
 	shallow = true
 	registered = true
 [submodule "OwenQ"]

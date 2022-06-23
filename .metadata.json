@@ -72,6 +72,10 @@
     "oncran": true
   },
   {
+    "package": "jacobi",
+    "oncran": true
+  },
+  {
     "package": "JSconsole",
     "oncran": true
   },
@@ -97,6 +101,10 @@
   },
   {
     "package": "monaco",
+    "oncran": true
+  },
+  {
+    "package": "multiActionButton",
     "oncran": true
   },
   {
