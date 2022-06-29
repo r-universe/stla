@@ -128,6 +128,10 @@
     "oncran": true
   },
   {
+    "package": "qsplines",
+    "oncran": true
+  },
+  {
     "package": "rAmCharts4",
     "oncran": true
   },
