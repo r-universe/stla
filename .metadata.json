@@ -140,6 +140,9 @@
     "oncran": true
   },
   {
+    "package": "RcppColors"
+  },
+  {
     "package": "Rnvd3",
     "oncran": true
   },

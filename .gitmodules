@@ -178,6 +178,11 @@
 	url = https://github.com/stla/rcdt
 	shallow = true
 	registered = true
+[submodule "RcppColors"]
+	path = RcppColors
+	url = https://github.com/stla/rcppcolors
+	shallow = true
+	registered = true
 [submodule "Rnvd3"]
 	path = Rnvd3
 	url = https://github.com/stla/rnvd3
