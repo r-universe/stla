@@ -28,6 +28,11 @@
 	url = https://github.com/stla/cxhull
 	shallow = true
 	registered = true
+[submodule "delaunay"]
+	path = delaunay
+	url = https://github.com/stla/delaunay
+	shallow = true
+	registered = true
 [submodule "EigenR"]
 	path = EigenR
 	url = https://github.com/stla/eigenr
