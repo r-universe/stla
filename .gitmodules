@@ -223,11 +223,6 @@
 	url = https://github.com/stla/shinytoastify
 	shallow = true
 	registered = true
-[submodule "SurfaceReconstruction"]
-	path = SurfaceReconstruction
-	url = https://github.com/stla/surfacereconstruction
-	shallow = true
-	registered = true
 [submodule "syt"]
 	path = syt
 	url = https://github.com/stla/syt

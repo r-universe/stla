@@ -175,10 +175,6 @@
     "oncran": true
   },
   {
-    "package": "SurfaceReconstruction",
-    "oncran": true
-  },
-  {
     "package": "syt",
     "oncran": true
   },
