@@ -133,6 +133,11 @@
 	url = https://github.com/stla/matrixsampling
 	shallow = true
 	registered = true
+[submodule "MeshesOperations"]
+	path = MeshesOperations
+	url = https://github.com/stla/meshesoperations
+	shallow = true
+	registered = true
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/stla/monaco
