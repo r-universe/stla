@@ -148,6 +148,11 @@
 	url = https://github.com/stla/multiactionbutton
 	shallow = true
 	registered = true
+[submodule "NestedMenu"]
+	path = NestedMenu
+	url = https://github.com/stla/nestedmenu
+	shallow = true
+	registered = true
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/stla/owenq

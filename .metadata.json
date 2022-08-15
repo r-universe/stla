@@ -115,6 +115,10 @@
     "oncran": true
   },
   {
+    "package": "NestedMenu",
+    "oncran": true
+  },
+  {
     "package": "OwenQ",
     "oncran": true
   },
