@@ -103,10 +103,6 @@
     "oncran": true
   },
   {
-    "package": "MeshesOperations",
-    "oncran": true
-  },
-  {
     "package": "monaco",
     "oncran": true
   },
