@@ -228,6 +228,11 @@
 	url = https://github.com/stla/shinytoastify
 	shallow = true
 	registered = true
+[submodule "shinyXYpad"]
+	path = shinyXYpad
+	url = https://github.com/stla/shinyxypad
+	shallow = true
+	registered = true
 [submodule "syt"]
 	path = syt
 	url = https://github.com/stla/syt

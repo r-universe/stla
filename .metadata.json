@@ -179,6 +179,10 @@
     "oncran": true
   },
   {
+    "package": "shinyXYpad",
+    "oncran": true
+  },
+  {
     "package": "syt",
     "oncran": true
   },
