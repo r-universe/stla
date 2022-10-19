@@ -163,6 +163,11 @@
 	url = https://github.com/stla/planegeometry
 	shallow = true
 	registered = true
+[submodule "PolygonSoup"]
+	path = PolygonSoup
+	url = https://github.com/stla/polygonsoup
+	shallow = true
+	registered = true
 [submodule "prettifyAddins"]
 	path = prettifyAddins
 	url = https://github.com/stla/prettifyaddins

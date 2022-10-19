@@ -127,6 +127,10 @@
     "oncran": true
   },
   {
+    "package": "PolygonSoup",
+    "oncran": true
+  },
+  {
     "package": "prettifyAddins",
     "oncran": true
   },
