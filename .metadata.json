@@ -20,7 +20,8 @@
     "oncran": true
   },
   {
-    "package": "delaunay"
+    "package": "delaunay",
+    "oncran": true
   },
   {
     "package": "EigenR",
