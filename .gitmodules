@@ -8,6 +8,11 @@
 	url = https://github.com/stla/aceeditor
 	shallow = true
 	registered = true
+[submodule "AlphaHull3D"]
+	path = AlphaHull3D
+	url = https://github.com/stla/alphahull3d
+	shallow = true
+	registered = true
 [submodule "Carlson"]
 	path = Carlson
 	url = https://github.com/stla/carlson

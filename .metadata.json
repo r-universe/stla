@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "AlphaHull3D",
+    "oncran": true
+  },
+  {
     "package": "Carlson",
     "oncran": true
   },
