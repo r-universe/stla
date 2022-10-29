@@ -108,6 +108,10 @@
     "oncran": true
   },
   {
+    "package": "MinkowskiSum",
+    "oncran": true
+  },
+  {
     "package": "monaco",
     "oncran": true
   },

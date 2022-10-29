@@ -138,6 +138,11 @@
 	url = https://github.com/stla/matrixsampling
 	shallow = true
 	registered = true
+[submodule "MinkowskiSum"]
+	path = MinkowskiSum
+	url = https://github.com/stla/minkowskisum
+	shallow = true
+	registered = true
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/stla/monaco
