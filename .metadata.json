@@ -108,6 +108,10 @@
     "oncran": true
   },
   {
+    "package": "MeshesTools",
+    "oncran": true
+  },
+  {
     "package": "MinkowskiSum",
     "oncran": true
   },

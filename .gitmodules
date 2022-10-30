@@ -138,6 +138,11 @@
 	url = https://github.com/stla/matrixsampling
 	shallow = true
 	registered = true
+[submodule "MeshesTools"]
+	path = MeshesTools
+	url = https://github.com/stla/meshestools
+	shallow = true
+	registered = true
 [submodule "MinkowskiSum"]
 	path = MinkowskiSum
 	url = https://github.com/stla/minkowskisum
