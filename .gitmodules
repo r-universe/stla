@@ -23,6 +23,11 @@
 	url = https://github.com/stla/carlson
 	shallow = true
 	registered = true
+[submodule "cgalMeshes"]
+	path = cgalMeshes
+	url = https://github.com/stla/cgalmeshes
+	shallow = true
+	registered = true
 [submodule "concom"]
 	path = concom
 	url = https://github.com/stla/concom

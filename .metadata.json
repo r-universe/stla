@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "cgalMeshes",
+    "oncran": false
+  },
+  {
     "package": "concom",
     "oncran": true
   },
