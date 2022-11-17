@@ -17,7 +17,7 @@
   },
   {
     "package": "cgalMeshes",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "concom",
