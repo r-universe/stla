@@ -112,6 +112,10 @@
     "oncran": true
   },
   {
+    "package": "lazyNumbers",
+    "oncran": true
+  },
+  {
     "package": "matrixsampling",
     "oncran": true
   },

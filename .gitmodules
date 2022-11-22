@@ -143,6 +143,11 @@
 	url = https://github.com/stla/kantorovich
 	shallow = true
 	registered = true
+[submodule "lazyNumbers"]
+	path = lazyNumbers
+	url = https://github.com/stla/lazynumbers
+	shallow = true
+	registered = true
 [submodule "matrixsampling"]
 	path = matrixsampling
 	url = https://github.com/stla/matrixsampling
