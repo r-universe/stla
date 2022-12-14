@@ -212,6 +212,10 @@
     "oncran": true
   },
   {
+    "package": "swipeR",
+    "oncran": true
+  },
+  {
     "package": "syt",
     "oncran": true
   },

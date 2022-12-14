@@ -268,6 +268,11 @@
 	url = https://github.com/stla/shinyxypad
 	shallow = true
 	registered = true
+[submodule "swipeR"]
+	path = swipeR
+	url = https://github.com/stla/swiper
+	shallow = true
+	registered = true
 [submodule "syt"]
 	path = syt
 	url = https://github.com/stla/syt
