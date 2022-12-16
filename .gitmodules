@@ -213,6 +213,11 @@
 	url = https://github.com/stla/qsplines
 	shallow = true
 	registered = true
+[submodule "qspray"]
+	path = qspray
+	url = https://github.com/stla/qspray
+	shallow = true
+	registered = true
 [submodule "rAmCharts4"]
 	path = rAmCharts4
 	url = https://github.com/stla/ramcharts4
