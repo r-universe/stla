@@ -103,11 +103,6 @@
 	url = https://github.com/stla/html2r
 	shallow = true
 	registered = true
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/stla/hypergeomat
-	shallow = true
-	registered = true
 [submodule "jack"]
 	path = jack
 	url = https://github.com/stla/jackr
