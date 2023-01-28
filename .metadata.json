@@ -172,6 +172,10 @@
     "oncran": true
   },
   {
+    "package": "RationalMatrix",
+    "oncran": true
+  },
+  {
     "package": "RCDT",
     "oncran": true
   },

@@ -218,6 +218,11 @@
 	url = https://github.com/stla/ramcharts4
 	shallow = true
 	registered = true
+[submodule "RationalMatrix"]
+	path = RationalMatrix
+	url = https://github.com/stla/rationalmatrix
+	shallow = true
+	registered = true
 [submodule "RCDT"]
 	path = RCDT
 	url = https://github.com/stla/rcdt
