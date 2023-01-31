@@ -80,6 +80,10 @@
     "oncran": true
   },
   {
+    "package": "HypergeoMat",
+    "oncran": true
+  },
+  {
     "package": "jack",
     "oncran": true
   },
