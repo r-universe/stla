@@ -238,6 +238,11 @@
 	url = https://github.com/stla/rcppcolors
 	shallow = true
 	registered = true
+[submodule "reactCheckbox"]
+	path = reactCheckbox
+	url = https://github.com/stla/reactcheckbox
+	shallow = true
+	registered = true
 [submodule "Rnvd3"]
 	path = Rnvd3
 	url = https://github.com/stla/rnvd3

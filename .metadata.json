@@ -188,6 +188,10 @@
     "oncran": true
   },
   {
+    "package": "reactCheckbox",
+    "oncran": true
+  },
+  {
     "package": "Rnvd3",
     "oncran": true
   },
