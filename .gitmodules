@@ -3,139 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "aceEditor"]
-	path = aceEditor
-	url = https://github.com/stla/aceeditor
-	shallow = true
-	registered = true
-[submodule "AlphaHull3D"]
-	path = AlphaHull3D
-	url = https://github.com/stla/alphahull3d
-	shallow = true
-	registered = true
-[submodule "Boov"]
-	path = Boov
-	url = https://github.com/stla/boov
-	shallow = true
-	registered = true
-[submodule "Carlson"]
-	path = Carlson
-	url = https://github.com/stla/carlson
-	shallow = true
-	registered = true
-[submodule "cgalMeshes"]
-	path = cgalMeshes
-	url = https://github.com/stla/cgalmeshes
-	shallow = true
-	registered = true
-[submodule "concom"]
-	path = concom
-	url = https://github.com/stla/concom
-	shallow = true
-	registered = true
-[submodule "cppcheckR"]
-	path = cppcheckR
-	url = https://github.com/stla/cppcheckr
-	shallow = true
-	registered = true
-[submodule "cxhull"]
-	path = cxhull
-	url = https://github.com/stla/cxhull
-	shallow = true
-	registered = true
-[submodule "delaunay"]
-	path = delaunay
-	url = https://github.com/stla/delaunay
-	shallow = true
-	registered = true
-[submodule "EigenR"]
-	path = EigenR
-	url = https://github.com/stla/eigenr
-	shallow = true
-	registered = true
-[submodule "findInFiles"]
-	path = findInFiles
-	url = https://github.com/stla/findinfiles
-	shallow = true
-	registered = true
-[submodule "findInGit"]
-	path = findInGit
-	url = https://github.com/stla/findingit
-	shallow = true
-	registered = true
-[submodule "gbeta"]
-	path = gbeta
-	url = https://github.com/stla/gbeta
-	shallow = true
-	registered = true
-[submodule "gfiExtremes"]
-	path = gfiExtremes
-	url = https://github.com/stla/gfiextremes
-	shallow = true
-	registered = true
-[submodule "gfilmm"]
-	path = gfilmm
-	url = https://github.com/stla/gfilmm
-	shallow = true
-	registered = true
-[submodule "gfiUltra"]
-	path = gfiUltra
-	url = https://github.com/stla/gfiultra
-	shallow = true
-	registered = true
-[submodule "gmpoly"]
-	path = gmpoly
-	url = https://github.com/stla/gmpoly
-	shallow = true
-	registered = true
-[submodule "graph3d"]
-	path = graph3d
-	url = https://github.com/stla/graph3d
-	shallow = true
-	registered = true
-[submodule "gyro"]
-	path = gyro
-	url = https://github.com/stla/gyro
-	shallow = true
-	registered = true
-[submodule "html2R"]
-	path = html2R
-	url = https://github.com/stla/html2r
-	shallow = true
-	registered = true
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/stla/hypergeomat
-	shallow = true
-	registered = true
-[submodule "jack"]
-	path = jack
-	url = https://github.com/stla/jackr
-	shallow = true
-	registered = true
-[submodule "jacobi"]
-	path = jacobi
-	url = https://github.com/stla/jacobi
-	shallow = true
-	registered = true
-[submodule "JSconsole"]
-	path = JSconsole
-	url = https://github.com/stla/jsconsole
-	shallow = true
-	registered = true
-[submodule "jshintr"]
-	path = jshintr
-	url = https://github.com/stla/jshintr
-	shallow = true
-	registered = true
-[submodule "jsonStrings"]
-	path = jsonStrings
-	url = https://github.com/stla/jsonstrings
-	shallow = true
-	registered = true
-[submodule "jsTreeR"]
-	path = jsTreeR
-	url = https://github.com/stla/jstreer
+[submodule "syt"]
+	path = syt
+	url = https://github.com/stla/syt
 	shallow = true
 	registered = true
 [submodule "kantorovich"]
@@ -143,64 +13,34 @@
 	url = https://github.com/stla/kantorovich
 	shallow = true
 	registered = true
-[submodule "lazyNumbers"]
-	path = lazyNumbers
-	url = https://github.com/stla/lazynumbers
+[submodule "uniformly"]
+	path = uniformly
+	url = https://github.com/stla/uniformly
 	shallow = true
 	registered = true
-[submodule "matrixsampling"]
-	path = matrixsampling
-	url = https://github.com/stla/matrixsampling
+[submodule "jsonStrings"]
+	path = jsonStrings
+	url = https://github.com/stla/jsonstrings
 	shallow = true
 	registered = true
-[submodule "MeshesTools"]
-	path = MeshesTools
-	url = https://github.com/stla/meshestools
+[submodule "findInFiles"]
+	path = findInFiles
+	url = https://github.com/stla/findinfiles
 	shallow = true
 	registered = true
-[submodule "MinkowskiSum"]
-	path = MinkowskiSum
-	url = https://github.com/stla/minkowskisum
+[submodule "Carlson"]
+	path = Carlson
+	url = https://github.com/stla/carlson
 	shallow = true
 	registered = true
-[submodule "monaco"]
-	path = monaco
-	url = https://github.com/stla/monaco
+[submodule "AlphaHull3D"]
+	path = AlphaHull3D
+	url = https://github.com/stla/alphahull3d
 	shallow = true
 	registered = true
-[submodule "multiActionButton"]
-	path = multiActionButton
-	url = https://github.com/stla/multiactionbutton
-	shallow = true
-	registered = true
-[submodule "NestedMenu"]
-	path = NestedMenu
-	url = https://github.com/stla/nestedmenu
-	shallow = true
-	registered = true
-[submodule "OwenQ"]
-	path = OwenQ
-	url = https://github.com/stla/owenq
-	shallow = true
-	registered = true
-[submodule "pasteAsComment"]
-	path = pasteAsComment
-	url = https://github.com/stla/pasteascomment
-	shallow = true
-	registered = true
-[submodule "PlaneGeometry"]
-	path = PlaneGeometry
-	url = https://github.com/stla/planegeometry
-	shallow = true
-	registered = true
-[submodule "PolygonSoup"]
-	path = PolygonSoup
-	url = https://github.com/stla/polygonsoup
-	shallow = true
-	registered = true
-[submodule "prettifyAddins"]
-	path = prettifyAddins
-	url = https://github.com/stla/prettifyaddins
+[submodule "delaunay"]
+	path = delaunay
+	url = https://github.com/stla/delaunay
 	shallow = true
 	registered = true
 [submodule "pylintR"]
@@ -208,29 +48,19 @@
 	url = https://github.com/stla/pylintr
 	shallow = true
 	registered = true
-[submodule "qsplines"]
-	path = qsplines
-	url = https://github.com/stla/qsplines
+[submodule "cgalMeshes"]
+	path = cgalMeshes
+	url = https://github.com/stla/cgalmeshes
 	shallow = true
 	registered = true
-[submodule "qspray"]
-	path = qspray
-	url = https://github.com/stla/qspray
+[submodule "cppcheckR"]
+	path = cppcheckR
+	url = https://github.com/stla/cppcheckr
 	shallow = true
 	registered = true
-[submodule "rAmCharts4"]
-	path = rAmCharts4
-	url = https://github.com/stla/ramcharts4
-	shallow = true
-	registered = true
-[submodule "RationalMatrix"]
-	path = RationalMatrix
-	url = https://github.com/stla/rationalmatrix
-	shallow = true
-	registered = true
-[submodule "RCDT"]
-	path = RCDT
-	url = https://github.com/stla/rcdt
+[submodule "PolygonSoup"]
+	path = PolygonSoup
+	url = https://github.com/stla/polygonsoup
 	shallow = true
 	registered = true
 [submodule "RcppColors"]
@@ -238,14 +68,94 @@
 	url = https://github.com/stla/rcppcolors
 	shallow = true
 	registered = true
-[submodule "reactCheckbox"]
-	path = reactCheckbox
-	url = https://github.com/stla/reactcheckbox
+[submodule "JSconsole"]
+	path = JSconsole
+	url = https://github.com/stla/jsconsole
 	shallow = true
 	registered = true
-[submodule "Rnvd3"]
-	path = Rnvd3
-	url = https://github.com/stla/rnvd3
+[submodule "MinkowskiSum"]
+	path = MinkowskiSum
+	url = https://github.com/stla/minkowskisum
+	shallow = true
+	registered = true
+[submodule "shinyToastify"]
+	path = shinyToastify
+	url = https://github.com/stla/shinytoastify
+	shallow = true
+	registered = true
+[submodule "multiActionButton"]
+	path = multiActionButton
+	url = https://github.com/stla/multiactionbutton
+	shallow = true
+	registered = true
+[submodule "lazyNumbers"]
+	path = lazyNumbers
+	url = https://github.com/stla/lazynumbers
+	shallow = true
+	registered = true
+[submodule "gfiUltra"]
+	path = gfiUltra
+	url = https://github.com/stla/gfiultra
+	shallow = true
+	registered = true
+[submodule "gfilmm"]
+	path = gfilmm
+	url = https://github.com/stla/gfilmm
+	shallow = true
+	registered = true
+[submodule "aceEditor"]
+	path = aceEditor
+	url = https://github.com/stla/aceeditor
+	shallow = true
+	registered = true
+[submodule "OwenQ"]
+	path = OwenQ
+	url = https://github.com/stla/owenq
+	shallow = true
+	registered = true
+[submodule "prettifyAddins"]
+	path = prettifyAddins
+	url = https://github.com/stla/prettifyaddins
+	shallow = true
+	registered = true
+[submodule "HypergeoMat"]
+	path = HypergeoMat
+	url = https://github.com/stla/hypergeomat
+	shallow = true
+	registered = true
+[submodule "shinyMergely"]
+	path = shinyMergely
+	url = https://github.com/stla/shinymergely
+	shallow = true
+	registered = true
+[submodule "qsplines"]
+	path = qsplines
+	url = https://github.com/stla/qsplines
+	shallow = true
+	registered = true
+[submodule "gmpoly"]
+	path = gmpoly
+	url = https://github.com/stla/gmpoly
+	shallow = true
+	registered = true
+[submodule "gbeta"]
+	path = gbeta
+	url = https://github.com/stla/gbeta
+	shallow = true
+	registered = true
+[submodule "thorn"]
+	path = thorn
+	url = https://github.com/stla/thorn
+	shallow = true
+	registered = true
+[submodule "gyro"]
+	path = gyro
+	url = https://github.com/stla/gyro
+	shallow = true
+	registered = true
+[submodule "monaco"]
+	path = monaco
+	url = https://github.com/stla/monaco
 	shallow = true
 	registered = true
 [submodule "shinyChakraSlider"]
@@ -258,24 +168,14 @@
 	url = https://github.com/stla/shinychakraui
 	shallow = true
 	registered = true
-[submodule "shinyMergely"]
-	path = shinyMergely
-	url = https://github.com/stla/shinymergely
+[submodule "concom"]
+	path = concom
+	url = https://github.com/stla/concom
 	shallow = true
 	registered = true
-[submodule "shinyMonacoEditor"]
-	path = shinyMonacoEditor
-	url = https://github.com/stla/shinymonacoeditor
-	shallow = true
-	registered = true
-[submodule "shinySelect"]
-	path = shinySelect
-	url = https://github.com/stla/shinyselect
-	shallow = true
-	registered = true
-[submodule "shinyToastify"]
-	path = shinyToastify
-	url = https://github.com/stla/shinytoastify
+[submodule "jack"]
+	path = jack
+	url = https://github.com/stla/jackr
 	shallow = true
 	registered = true
 [submodule "shinyXYpad"]
@@ -283,14 +183,19 @@
 	url = https://github.com/stla/shinyxypad
 	shallow = true
 	registered = true
-[submodule "swipeR"]
-	path = swipeR
-	url = https://github.com/stla/swiper
+[submodule "qspray"]
+	path = qspray
+	url = https://github.com/stla/qspray
 	shallow = true
 	registered = true
-[submodule "syt"]
-	path = syt
-	url = https://github.com/stla/syt
+[submodule "RCDT"]
+	path = RCDT
+	url = https://github.com/stla/rcdt
+	shallow = true
+	registered = true
+[submodule "MeshesTools"]
+	path = MeshesTools
+	url = https://github.com/stla/meshestools
 	shallow = true
 	registered = true
 [submodule "tessellation"]
@@ -298,13 +203,108 @@
 	url = https://github.com/stla/tessellation
 	shallow = true
 	registered = true
-[submodule "thorn"]
-	path = thorn
-	url = https://github.com/stla/thorn
+[submodule "EigenR"]
+	path = EigenR
+	url = https://github.com/stla/eigenr
 	shallow = true
 	registered = true
-[submodule "uniformly"]
-	path = uniformly
-	url = https://github.com/stla/uniformly
+[submodule "jacobi"]
+	path = jacobi
+	url = https://github.com/stla/jacobi
+	shallow = true
+	registered = true
+[submodule "shinyMonacoEditor"]
+	path = shinyMonacoEditor
+	url = https://github.com/stla/shinymonacoeditor
+	shallow = true
+	registered = true
+[submodule "findInGit"]
+	path = findInGit
+	url = https://github.com/stla/findingit
+	shallow = true
+	registered = true
+[submodule "jshintr"]
+	path = jshintr
+	url = https://github.com/stla/jshintr
+	shallow = true
+	registered = true
+[submodule "shinySelect"]
+	path = shinySelect
+	url = https://github.com/stla/shinyselect
+	shallow = true
+	registered = true
+[submodule "swipeR"]
+	path = swipeR
+	url = https://github.com/stla/swiper
+	shallow = true
+	registered = true
+[submodule "matrixsampling"]
+	path = matrixsampling
+	url = https://github.com/stla/matrixsampling
+	shallow = true
+	registered = true
+[submodule "html2R"]
+	path = html2R
+	url = https://github.com/stla/html2r
+	shallow = true
+	registered = true
+[submodule "rAmCharts4"]
+	path = rAmCharts4
+	url = https://github.com/stla/ramcharts4
+	shallow = true
+	registered = true
+[submodule "Boov"]
+	path = Boov
+	url = https://github.com/stla/boov
+	shallow = true
+	registered = true
+[submodule "pasteAsComment"]
+	path = pasteAsComment
+	url = https://github.com/stla/pasteascomment
+	shallow = true
+	registered = true
+[submodule "reactCheckbox"]
+	path = reactCheckbox
+	url = https://github.com/stla/reactcheckbox
+	shallow = true
+	registered = true
+[submodule "PlaneGeometry"]
+	path = PlaneGeometry
+	url = https://github.com/stla/planegeometry
+	shallow = true
+	registered = true
+[submodule "jsTreeR"]
+	path = jsTreeR
+	url = https://github.com/stla/jstreer
+	shallow = true
+	registered = true
+[submodule "RationalMatrix"]
+	path = RationalMatrix
+	url = https://github.com/stla/rationalmatrix
+	shallow = true
+	registered = true
+[submodule "Rnvd3"]
+	path = Rnvd3
+	url = https://github.com/stla/rnvd3
+	shallow = true
+	registered = true
+[submodule "cxhull"]
+	path = cxhull
+	url = https://github.com/stla/cxhull
+	shallow = true
+	registered = true
+[submodule "gfiExtremes"]
+	path = gfiExtremes
+	url = https://github.com/stla/gfiextremes
+	shallow = true
+	registered = true
+[submodule "graph3d"]
+	path = graph3d
+	url = https://github.com/stla/graph3d
+	shallow = true
+	registered = true
+[submodule "NestedMenu"]
+	path = NestedMenu
+	url = https://github.com/stla/nestedmenu
 	shallow = true
 	registered = true
