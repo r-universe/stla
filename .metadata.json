@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "brr",
+    "oncran": true
+  },
+  {
     "package": "Carlson",
     "oncran": true
   },

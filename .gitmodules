@@ -18,6 +18,11 @@
 	url = https://github.com/stla/boov
 	shallow = true
 	registered = true
+[submodule "brr"]
+	path = brr
+	url = https://github.com/stla/brr
+	shallow = true
+	registered = true
 [submodule "Carlson"]
 	path = Carlson
 	url = https://github.com/stla/carlson
