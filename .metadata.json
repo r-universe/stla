@@ -1,26 +1,6 @@
 [
   {
-    "package": "syt",
-    "oncran": true
-  },
-  {
-    "package": "kantorovich",
-    "oncran": true
-  },
-  {
-    "package": "uniformly",
-    "oncran": true
-  },
-  {
-    "package": "jsonStrings",
-    "oncran": true
-  },
-  {
-    "package": "findInFiles",
-    "oncran": true
-  },
-  {
-    "package": "Carlson",
+    "package": "aceEditor",
     "oncran": true
   },
   {
@@ -28,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "delaunay",
+    "package": "Boov",
     "oncran": true
   },
   {
-    "package": "pylintR",
+    "package": "Carlson",
     "oncran": true
   },
   {
@@ -40,71 +20,31 @@
     "oncran": true
   },
   {
+    "package": "concom",
+    "oncran": true
+  },
+  {
     "package": "cppcheckR",
     "oncran": true
   },
   {
-    "package": "PolygonSoup",
+    "package": "cxhull",
     "oncran": true
   },
   {
-    "package": "RcppColors",
+    "package": "delaunay",
     "oncran": true
   },
   {
-    "package": "JSconsole",
+    "package": "EigenR",
     "oncran": true
   },
   {
-    "package": "MinkowskiSum",
+    "package": "findInFiles",
     "oncran": true
   },
   {
-    "package": "shinyToastify",
-    "oncran": true
-  },
-  {
-    "package": "multiActionButton",
-    "oncran": true
-  },
-  {
-    "package": "lazyNumbers",
-    "oncran": true
-  },
-  {
-    "package": "gfiUltra",
-    "oncran": true
-  },
-  {
-    "package": "gfilmm",
-    "oncran": true
-  },
-  {
-    "package": "aceEditor",
-    "oncran": true
-  },
-  {
-    "package": "OwenQ",
-    "oncran": true
-  },
-  {
-    "package": "prettifyAddins",
-    "oncran": true
-  },
-  {
-    "package": "HypergeoMat",
-    "oncran": true
-  },
-  {
-    "package": "shinyMergely",
-    "oncran": true
-  },
-  {
-    "package": "qsplines",
-    "oncran": true
-  },
-  {
-    "package": "gmpoly",
+    "package": "findInGit",
     "oncran": true
   },
   {
@@ -112,7 +52,23 @@
     "oncran": true
   },
   {
-    "package": "thorn",
+    "package": "gfiExtremes",
+    "oncran": true
+  },
+  {
+    "package": "gfilmm",
+    "oncran": true
+  },
+  {
+    "package": "gfiUltra",
+    "oncran": true
+  },
+  {
+    "package": "gmpoly",
+    "oncran": true
+  },
+  {
+    "package": "graph3d",
     "oncran": true
   },
   {
@@ -120,7 +76,123 @@
     "oncran": true
   },
   {
+    "package": "html2R",
+    "oncran": true
+  },
+  {
+    "package": "HypergeoMat",
+    "oncran": true
+  },
+  {
+    "package": "jack",
+    "oncran": true
+  },
+  {
+    "package": "jacobi",
+    "oncran": true
+  },
+  {
+    "package": "JSconsole",
+    "oncran": true
+  },
+  {
+    "package": "jshintr",
+    "oncran": true
+  },
+  {
+    "package": "jsonStrings",
+    "oncran": true
+  },
+  {
+    "package": "jsTreeR",
+    "oncran": true
+  },
+  {
+    "package": "kantorovich",
+    "oncran": true
+  },
+  {
+    "package": "lazyNumbers",
+    "oncran": true
+  },
+  {
+    "package": "matrixsampling",
+    "oncran": true
+  },
+  {
+    "package": "MeshesTools",
+    "oncran": true
+  },
+  {
+    "package": "MinkowskiSum",
+    "oncran": true
+  },
+  {
     "package": "monaco",
+    "oncran": true
+  },
+  {
+    "package": "multiActionButton",
+    "oncran": true
+  },
+  {
+    "package": "NestedMenu",
+    "oncran": true
+  },
+  {
+    "package": "OwenQ",
+    "oncran": true
+  },
+  {
+    "package": "pasteAsComment",
+    "oncran": true
+  },
+  {
+    "package": "PlaneGeometry",
+    "oncran": true
+  },
+  {
+    "package": "PolygonSoup",
+    "oncran": true
+  },
+  {
+    "package": "prettifyAddins",
+    "oncran": true
+  },
+  {
+    "package": "pylintR",
+    "oncran": true
+  },
+  {
+    "package": "qsplines",
+    "oncran": true
+  },
+  {
+    "package": "qspray",
+    "oncran": true
+  },
+  {
+    "package": "rAmCharts4",
+    "oncran": true
+  },
+  {
+    "package": "RationalMatrix",
+    "oncran": true
+  },
+  {
+    "package": "RCDT",
+    "oncran": true
+  },
+  {
+    "package": "RcppColors",
+    "oncran": true
+  },
+  {
+    "package": "reactCheckbox",
+    "oncran": true
+  },
+  {
+    "package": "Rnvd3",
     "oncran": true
   },
   {
@@ -132,39 +204,7 @@
     "oncran": true
   },
   {
-    "package": "concom",
-    "oncran": true
-  },
-  {
-    "package": "jack",
-    "oncran": true
-  },
-  {
-    "package": "shinyXYpad",
-    "oncran": true
-  },
-  {
-    "package": "qspray",
-    "oncran": true
-  },
-  {
-    "package": "RCDT",
-    "oncran": true
-  },
-  {
-    "package": "MeshesTools",
-    "oncran": true
-  },
-  {
-    "package": "tessellation",
-    "oncran": true
-  },
-  {
-    "package": "EigenR",
-    "oncran": true
-  },
-  {
-    "package": "jacobi",
+    "package": "shinyMergely",
     "oncran": true
   },
   {
@@ -172,15 +212,15 @@
     "oncran": true
   },
   {
-    "package": "findInGit",
-    "oncran": true
-  },
-  {
-    "package": "jshintr",
-    "oncran": true
-  },
-  {
     "package": "shinySelect",
+    "oncran": true
+  },
+  {
+    "package": "shinyToastify",
+    "oncran": true
+  },
+  {
+    "package": "shinyXYpad",
     "oncran": true
   },
   {
@@ -188,59 +228,19 @@
     "oncran": true
   },
   {
-    "package": "matrixsampling",
+    "package": "syt",
     "oncran": true
   },
   {
-    "package": "html2R",
+    "package": "tessellation",
     "oncran": true
   },
   {
-    "package": "rAmCharts4",
+    "package": "thorn",
     "oncran": true
   },
   {
-    "package": "Boov",
-    "oncran": true
-  },
-  {
-    "package": "pasteAsComment",
-    "oncran": true
-  },
-  {
-    "package": "reactCheckbox",
-    "oncran": true
-  },
-  {
-    "package": "PlaneGeometry",
-    "oncran": true
-  },
-  {
-    "package": "jsTreeR",
-    "oncran": true
-  },
-  {
-    "package": "RationalMatrix",
-    "oncran": true
-  },
-  {
-    "package": "Rnvd3",
-    "oncran": true
-  },
-  {
-    "package": "cxhull",
-    "oncran": true
-  },
-  {
-    "package": "gfiExtremes",
-    "oncran": true
-  },
-  {
-    "package": "graph3d",
-    "oncran": true
-  },
-  {
-    "package": "NestedMenu",
+    "package": "uniformly",
     "oncran": true
   }
 ]
