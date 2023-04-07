@@ -33,6 +33,11 @@
 	url = https://github.com/stla/cgalmeshes
 	shallow = true
 	registered = true
+[submodule "cgalPolygons"]
+	path = cgalPolygons
+	url = https://github.com/stla/cgalpolygons
+	shallow = true
+	registered = true
 [submodule "concom"]
 	path = concom
 	url = https://github.com/stla/concom
