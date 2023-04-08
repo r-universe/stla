@@ -118,6 +118,11 @@
 	url = https://github.com/stla/hypergeomat
 	shallow = true
 	registered = true
+[submodule "interpolation"]
+	path = interpolation
+	url = https://github.com/stla/interpolation
+	shallow = true
+	registered = true
 [submodule "jack"]
 	path = jack
 	url = https://github.com/stla/jackr
