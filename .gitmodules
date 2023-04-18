@@ -123,6 +123,11 @@
 	url = https://github.com/stla/interpolation
 	shallow = true
 	registered = true
+[submodule "intmap"]
+	path = intmap
+	url = https://github.com/stla/intmap
+	shallow = true
+	registered = true
 [submodule "jack"]
 	path = jack
 	url = https://github.com/stla/jackr
