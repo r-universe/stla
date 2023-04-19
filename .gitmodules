@@ -53,6 +53,16 @@
 	url = https://github.com/stla/cxhull
 	shallow = true
 	registered = true
+[submodule "cyclotomic"]
+	path = cyclotomic
+	url = https://github.com/stla/cyclotomic
+	shallow = true
+	registered = true
+[submodule "DateTimeRangePicker"]
+	path = DateTimeRangePicker
+	url = https://github.com/stla/datetimerangepicker
+	shallow = true
+	registered = true
 [submodule "delaunay"]
 	path = delaunay
 	url = https://github.com/stla/delaunay
