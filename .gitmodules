@@ -158,6 +158,11 @@
 	url = https://github.com/stla/jshintr
 	shallow = true
 	registered = true
+[submodule "jsonNormalize"]
+	path = jsonNormalize
+	url = https://github.com/stla/jsonnormalize
+	shallow = true
+	registered = true
 [submodule "jsonStrings"]
 	path = jsonStrings
 	url = https://github.com/stla/jsonstrings
