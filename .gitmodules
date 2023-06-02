@@ -318,6 +318,11 @@
 	url = https://github.com/stla/shinyxypad
 	shallow = true
 	registered = true
+[submodule "sphereTessellation"]
+	path = sphereTessellation
+	url = https://github.com/stla/spheretessellation
+	shallow = true
+	registered = true
 [submodule "swipeR"]
 	path = swipeR
 	url = https://github.com/stla/swiper
