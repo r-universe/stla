@@ -28,6 +28,11 @@
 	url = https://github.com/stla/carlson
 	shallow = true
 	registered = true
+[submodule "cascadeSelect"]
+	path = cascadeSelect
+	url = https://github.com/stla/cascadeselect
+	shallow = true
+	registered = true
 [submodule "cgalMeshes"]
 	path = cgalMeshes
 	url = https://github.com/stla/cgalmeshes
