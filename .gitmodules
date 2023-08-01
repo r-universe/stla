@@ -2,21 +2,63 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aceEditor"]
-	path = aceEditor
-	url = https://github.com/stla/aceeditor
 [submodule "AlphaHull3D"]
 	path = AlphaHull3D
 	url = https://github.com/stla/alphahull3d
 [submodule "Boov"]
 	path = Boov
 	url = https://github.com/stla/boov
-[submodule "brr"]
-	path = brr
-	url = https://github.com/stla/brr
 [submodule "Carlson"]
 	path = Carlson
 	url = https://github.com/stla/carlson
+[submodule "DateTimeRangePicker"]
+	path = DateTimeRangePicker
+	url = https://github.com/stla/datetimerangepicker
+[submodule "EigenR"]
+	path = EigenR
+	url = https://github.com/stla/eigenr
+[submodule "HypergeoMat"]
+	path = HypergeoMat
+	url = https://github.com/stla/hypergeomat
+[submodule "JSconsole"]
+	path = JSconsole
+	url = https://github.com/stla/jsconsole
+[submodule "MeshesTools"]
+	path = MeshesTools
+	url = https://github.com/stla/meshestools
+[submodule "MinkowskiSum"]
+	path = MinkowskiSum
+	url = https://github.com/stla/minkowskisum
+[submodule "NestedMenu"]
+	path = NestedMenu
+	url = https://github.com/stla/nestedmenu
+[submodule "OwenQ"]
+	path = OwenQ
+	url = https://github.com/stla/owenq
+[submodule "PlaneGeometry"]
+	path = PlaneGeometry
+	url = https://github.com/stla/planegeometry
+[submodule "PolygonSoup"]
+	path = PolygonSoup
+	url = https://github.com/stla/polygonsoup
+[submodule "RCDT"]
+	path = RCDT
+	url = https://github.com/stla/rcdt
+[submodule "RationalMatrix"]
+	path = RationalMatrix
+	url = https://github.com/stla/rationalmatrix
+[submodule "RcppColors"]
+	path = RcppColors
+	url = https://github.com/stla/rcppcolors
+[submodule "Rnvd3"]
+	path = Rnvd3
+	url = https://github.com/stla/rnvd3
+[submodule "aceEditor"]
+	path = aceEditor
+	url = https://github.com/stla/aceeditor
+[submodule "brr"]
+	path = brr
+	url = https://github.com/stla/brr
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/stla/cascadeselect
@@ -38,15 +80,9 @@
 [submodule "cyclotomic"]
 	path = cyclotomic
 	url = https://github.com/stla/cyclotomic
-[submodule "DateTimeRangePicker"]
-	path = DateTimeRangePicker
-	url = https://github.com/stla/datetimerangepicker
 [submodule "delaunay"]
 	path = delaunay
 	url = https://github.com/stla/delaunay
-[submodule "EigenR"]
-	path = EigenR
-	url = https://github.com/stla/eigenr
 [submodule "findInFiles"]
 	path = findInFiles
 	url = https://github.com/stla/findinfiles
@@ -59,12 +95,12 @@
 [submodule "gfiExtremes"]
 	path = gfiExtremes
 	url = https://github.com/stla/gfiextremes
-[submodule "gfilmm"]
-	path = gfilmm
-	url = https://github.com/stla/gfilmm
 [submodule "gfiUltra"]
 	path = gfiUltra
 	url = https://github.com/stla/gfiultra
+[submodule "gfilmm"]
+	path = gfilmm
+	url = https://github.com/stla/gfilmm
 [submodule "gmpoly"]
 	path = gmpoly
 	url = https://github.com/stla/gmpoly
@@ -77,9 +113,6 @@
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/stla/html2r
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/stla/hypergeomat
 [submodule "interpolation"]
 	path = interpolation
 	url = https://github.com/stla/interpolation
@@ -92,9 +125,9 @@
 [submodule "jacobi"]
 	path = jacobi
 	url = https://github.com/stla/jacobi
-[submodule "JSconsole"]
-	path = JSconsole
-	url = https://github.com/stla/jsconsole
+[submodule "jsTreeR"]
+	path = jsTreeR
+	url = https://github.com/stla/jstreer
 [submodule "jshintr"]
 	path = jshintr
 	url = https://github.com/stla/jshintr
@@ -104,9 +137,6 @@
 [submodule "jsonStrings"]
 	path = jsonStrings
 	url = https://github.com/stla/jsonstrings
-[submodule "jsTreeR"]
-	path = jsTreeR
-	url = https://github.com/stla/jstreer
 [submodule "kantorovich"]
 	path = kantorovich
 	url = https://github.com/stla/kantorovich
@@ -116,33 +146,15 @@
 [submodule "matrixsampling"]
 	path = matrixsampling
 	url = https://github.com/stla/matrixsampling
-[submodule "MeshesTools"]
-	path = MeshesTools
-	url = https://github.com/stla/meshestools
-[submodule "MinkowskiSum"]
-	path = MinkowskiSum
-	url = https://github.com/stla/minkowskisum
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/stla/monaco
 [submodule "multiActionButton"]
 	path = multiActionButton
 	url = https://github.com/stla/multiactionbutton
-[submodule "NestedMenu"]
-	path = NestedMenu
-	url = https://github.com/stla/nestedmenu
-[submodule "OwenQ"]
-	path = OwenQ
-	url = https://github.com/stla/owenq
 [submodule "pasteAsComment"]
 	path = pasteAsComment
 	url = https://github.com/stla/pasteascomment
-[submodule "PlaneGeometry"]
-	path = PlaneGeometry
-	url = https://github.com/stla/planegeometry
-[submodule "PolygonSoup"]
-	path = PolygonSoup
-	url = https://github.com/stla/polygonsoup
 [submodule "prettifyAddins"]
 	path = prettifyAddins
 	url = https://github.com/stla/prettifyaddins
@@ -158,21 +170,9 @@
 [submodule "rAmCharts4"]
 	path = rAmCharts4
 	url = https://github.com/stla/ramcharts4
-[submodule "RationalMatrix"]
-	path = RationalMatrix
-	url = https://github.com/stla/rationalmatrix
-[submodule "RCDT"]
-	path = RCDT
-	url = https://github.com/stla/rcdt
-[submodule "RcppColors"]
-	path = RcppColors
-	url = https://github.com/stla/rcppcolors
 [submodule "reactCheckbox"]
 	path = reactCheckbox
 	url = https://github.com/stla/reactcheckbox
-[submodule "Rnvd3"]
-	path = Rnvd3
-	url = https://github.com/stla/rnvd3
 [submodule "shinyChakraSlider"]
 	path = shinyChakraSlider
 	url = https://github.com/stla/shinychakraslider
