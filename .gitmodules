@@ -5,9 +5,6 @@
 [submodule "AlphaHull3D"]
 	path = AlphaHull3D
 	url = https://github.com/stla/alphahull3d
-[submodule "Boov"]
-	path = Boov
-	url = https://github.com/stla/boov
 [submodule "Carlson"]
 	path = Carlson
 	url = https://github.com/stla/carlson
@@ -23,12 +20,6 @@
 [submodule "JSconsole"]
 	path = JSconsole
 	url = https://github.com/stla/jsconsole
-[submodule "MeshesTools"]
-	path = MeshesTools
-	url = https://github.com/stla/meshestools
-[submodule "MinkowskiSum"]
-	path = MinkowskiSum
-	url = https://github.com/stla/minkowskisum
 [submodule "NestedMenu"]
 	path = NestedMenu
 	url = https://github.com/stla/nestedmenu
@@ -38,9 +29,6 @@
 [submodule "PlaneGeometry"]
 	path = PlaneGeometry
 	url = https://github.com/stla/planegeometry
-[submodule "PolygonSoup"]
-	path = PolygonSoup
-	url = https://github.com/stla/polygonsoup
 [submodule "RCDT"]
 	path = RCDT
 	url = https://github.com/stla/rcdt
