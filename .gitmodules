@@ -167,6 +167,9 @@
 [submodule "shinyChakraUI"]
 	path = shinyChakraUI
 	url = https://github.com/stla/shinychakraui
+[submodule "shinyDatetimePickers"]
+	path = shinyDatetimePickers
+	url = https://github.com/stla/shinydatetimepickers
 [submodule "shinyMergely"]
 	path = shinyMergely
 	url = https://github.com/stla/shinymergely
