@@ -44,6 +44,9 @@
 [submodule "aceEditor"]
 	path = aceEditor
 	url = https://github.com/stla/aceeditor
+[submodule "boodist"]
+	path = boodist
+	url = https://github.com/stla/boodist
 [submodule "brr"]
 	path = brr
 	url = https://github.com/stla/brr
