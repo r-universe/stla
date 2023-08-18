@@ -95,6 +95,9 @@
 [submodule "gfilmm"]
 	path = gfilmm
 	url = https://github.com/stla/gfilmm
+[submodule "giacR"]
+	path = giacR
+	url = https://github.com/stla/giacr
 [submodule "gmpoly"]
 	path = gmpoly
 	url = https://github.com/stla/gmpoly
