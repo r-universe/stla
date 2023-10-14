@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "AlphaHull3D"]
-	path = AlphaHull3D
-	url = https://github.com/stla/alphahull3d
 [submodule "Apollonius"]
 	path = Apollonius
 	url = https://github.com/stla/apollonius
@@ -56,9 +53,6 @@
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/stla/cascadeselect
-[submodule "cgalMeshes"]
-	path = cgalMeshes
-	url = https://github.com/stla/cgalmeshes
 [submodule "cgalPolygons"]
 	path = cgalPolygons
 	url = https://github.com/stla/cgalpolygons
@@ -74,9 +68,6 @@
 [submodule "cyclotomic"]
 	path = cyclotomic
 	url = https://github.com/stla/cyclotomic
-[submodule "delaunay"]
-	path = delaunay
-	url = https://github.com/stla/delaunay
 [submodule "findInFiles"]
 	path = findInFiles
 	url = https://github.com/stla/findinfiles
