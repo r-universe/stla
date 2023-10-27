@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Apollonius"]
-	path = Apollonius
-	url = https://github.com/stla/apollonius
 [submodule "Carlson"]
 	path = Carlson
 	url = https://github.com/stla/carlson
@@ -53,9 +50,6 @@
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/stla/cascadeselect
-[submodule "cgalPolygons"]
-	path = cgalPolygons
-	url = https://github.com/stla/cgalpolygons
 [submodule "concom"]
 	path = concom
 	url = https://github.com/stla/concom
@@ -101,9 +95,6 @@
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/stla/html2r
-[submodule "interpolation"]
-	path = interpolation
-	url = https://github.com/stla/interpolation
 [submodule "intmap"]
 	path = intmap
 	url = https://github.com/stla/intmap
@@ -128,9 +119,6 @@
 [submodule "kantorovich"]
 	path = kantorovich
 	url = https://github.com/stla/kantorovich
-[submodule "lazyNumbers"]
-	path = lazyNumbers
-	url = https://github.com/stla/lazynumbers
 [submodule "matrixsampling"]
 	path = matrixsampling
 	url = https://github.com/stla/matrixsampling
@@ -143,6 +131,9 @@
 [submodule "pasteAsComment"]
 	path = pasteAsComment
 	url = https://github.com/stla/pasteascomment
+[submodule "polyhedralCubature"]
+	path = polyhedralCubature
+	url = https://github.com/stla/polyhedralcubature
 [submodule "prettifyAddins"]
 	path = prettifyAddins
 	url = https://github.com/stla/prettifyaddins
@@ -185,9 +176,6 @@
 [submodule "shinyXYpad"]
 	path = shinyXYpad
 	url = https://github.com/stla/shinyxypad
-[submodule "sphereTessellation"]
-	path = sphereTessellation
-	url = https://github.com/stla/spheretessellation
 [submodule "swipeR"]
 	path = swipeR
 	url = https://github.com/stla/swiper
