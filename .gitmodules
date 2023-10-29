@@ -52,8 +52,7 @@
 	url = https://github.com/stla/cascadeselect
 [submodule "colorsGen"]
 	path = colorsGen
-	url = https://github.com/stla/colorsGen
-	registered = false
+	url = https://github.com/stla/colorsgen
 [submodule "concom"]
 	path = concom
 	url = https://github.com/stla/concom
