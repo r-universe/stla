@@ -47,6 +47,9 @@
 [submodule "boodist"]
 	path = boodist
 	url = https://github.com/stla/boodist
+[submodule "bratteli"]
+	path = bratteli
+	url = https://github.com/stla/brattelir
 [submodule "brr"]
 	path = brr
 	url = https://github.com/stla/brr
@@ -101,6 +104,9 @@
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/stla/html2r
+[submodule "interpolation"]
+	path = interpolation
+	url = https://github.com/stla/interpolation
 [submodule "interpolators"]
 	path = interpolators
 	url = https://github.com/stla/interpolators
