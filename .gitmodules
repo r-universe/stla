@@ -50,9 +50,6 @@
 [submodule "bratteli"]
 	path = bratteli
 	url = https://github.com/stla/brattelir
-[submodule "brr"]
-	path = brr
-	url = https://github.com/stla/brr
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/stla/cascadeselect
