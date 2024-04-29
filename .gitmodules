@@ -47,6 +47,9 @@
 [submodule "boodist"]
 	path = boodist
 	url = https://github.com/stla/boodist
+[submodule "braids"]
+	path = braids
+	url = https://github.com/stla/braids
 [submodule "bratteli"]
 	path = bratteli
 	url = https://github.com/stla/brattelir
