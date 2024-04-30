@@ -1,11 +1,5 @@
 [
   {
-    "package": "ratioOfQsprays",
-    "url": "https://github.com/stla/ratioOfQsprays",
-    "via": ["jack"],
-    "from": "jack"
-  },
-  {
     "package": "symbolicQspray",
     "url": "https://github.com/stla/symbolicQspray",
     "via": ["jack"],
