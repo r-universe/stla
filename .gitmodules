@@ -77,6 +77,9 @@
 [submodule "findInGit"]
 	path = findInGit
 	url = https://github.com/stla/findingit
+[submodule "freewall"]
+	path = freewall
+	url = https://github.com/stla/freewall
 [submodule "gbeta"]
 	path = gbeta
 	url = https://github.com/stla/gbeta
@@ -164,6 +167,9 @@
 [submodule "rAmCharts4"]
 	path = rAmCharts4
 	url = https://github.com/stla/ramcharts4
+[submodule "ratioOfQsprays"]
+	path = ratioOfQsprays
+	url = https://github.com/stla/ratioofqsprays
 [submodule "reactCheckbox"]
 	path = reactCheckbox
 	url = https://github.com/stla/reactcheckbox
