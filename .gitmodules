@@ -203,10 +203,6 @@
 [submodule "swipeR"]
 	path = swipeR
 	url = https://github.com/stla/swiper
-[submodule "symbolicQspray"]
-	path = symbolicQspray
-	url = https://github.com/stla/symbolicQspray
-	registered = false
 [submodule "syt"]
 	path = syt
 	url = https://github.com/stla/syt
