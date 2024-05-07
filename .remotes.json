@@ -4,5 +4,17 @@
     "url": "https://github.com/stla/qspray",
     "via": ["ratioOfQsprays"],
     "from": "ratioOfQsprays"
+  },
+  {
+    "package": "qspray",
+    "url": "https://github.com/stla/qspray",
+    "via": ["symbolicQspray"],
+    "from": "symbolicQspray"
+  },
+  {
+    "package": "ratioOfQsprays",
+    "url": "https://github.com/stla/ratioOfQsprays",
+    "via": ["symbolicQspray"],
+    "from": "symbolicQspray"
   }
 ]
