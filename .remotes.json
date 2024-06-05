@@ -34,5 +34,11 @@
     "url": "https://github.com/stla/symbolicQspray",
     "via": ["jack"],
     "from": "jack"
+  },
+  {
+    "package": "syt",
+    "url": "https://github.com/stla/syt",
+    "via": ["jack"],
+    "from": "jack"
   }
 ]
