@@ -14,9 +14,6 @@
 [submodule "EigenR"]
 	path = EigenR
 	url = https://github.com/stla/eigenr
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/stla/hypergeomat
 [submodule "JSconsole"]
 	path = JSconsole
 	url = https://github.com/stla/jsconsole
