@@ -2,12 +2,6 @@
   {
     "package": "qspray",
     "url": "https://github.com/stla/qspray",
-    "via": ["ratioOfQsprays"],
-    "from": "ratioOfQsprays"
-  },
-  {
-    "package": "qspray",
-    "url": "https://github.com/stla/qspray",
     "via": ["symbolicQspray"],
     "from": "symbolicQspray"
   },
