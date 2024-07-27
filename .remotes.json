@@ -2,12 +2,6 @@
   {
     "package": "qspray",
     "url": "https://github.com/stla/qspray",
-    "via": ["jack"],
-    "from": "jack"
-  },
-  {
-    "package": "qspray",
-    "url": "https://github.com/stla/qspray",
     "via": ["ratioOfQsprays"],
     "from": "ratioOfQsprays"
   },
@@ -20,25 +14,7 @@
   {
     "package": "ratioOfQsprays",
     "url": "https://github.com/stla/ratioOfQsprays",
-    "via": ["jack"],
-    "from": "jack"
-  },
-  {
-    "package": "ratioOfQsprays",
-    "url": "https://github.com/stla/ratioOfQsprays",
     "via": ["symbolicQspray"],
     "from": "symbolicQspray"
-  },
-  {
-    "package": "symbolicQspray",
-    "url": "https://github.com/stla/symbolicQspray",
-    "via": ["jack"],
-    "from": "jack"
-  },
-  {
-    "package": "syt",
-    "url": "https://github.com/stla/syt",
-    "via": ["jack"],
-    "from": "jack"
   }
 ]
