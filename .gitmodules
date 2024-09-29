@@ -92,9 +92,6 @@
 [submodule "gfiUltra"]
 	path = gfiUltra
 	url = https://github.com/stla/gfiultra
-[submodule "gfilmm"]
-	path = gfilmm
-	url = https://github.com/stla/gfilmm
 [submodule "giacR"]
 	path = giacR
 	url = https://github.com/stla/giacr
