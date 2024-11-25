@@ -26,9 +26,6 @@
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/stla/owenq
-[submodule "PlaneGeometry"]
-	path = PlaneGeometry
-	url = https://github.com/stla/planegeometry
 [submodule "RCDT"]
 	path = RCDT
 	url = https://github.com/stla/rcdt
