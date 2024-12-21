@@ -197,9 +197,6 @@
 [submodule "shinyXYpad"]
 	path = shinyXYpad
 	url = https://github.com/stla/shinyxypad
-[submodule "sphereTessellation"]
-	path = sphereTessellation
-	url = https://github.com/stla/spheretessellation
 [submodule "swipeR"]
 	path = swipeR
 	url = https://github.com/stla/swiper
