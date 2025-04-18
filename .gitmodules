@@ -23,9 +23,6 @@
 [submodule "NestedMenu"]
 	path = NestedMenu
 	url = https://github.com/stla/nestedmenu
-[submodule "OwenQ"]
-	path = OwenQ
-	url = https://github.com/stla/owenq
 [submodule "RCDT"]
 	path = RCDT
 	url = https://github.com/stla/rcdt
