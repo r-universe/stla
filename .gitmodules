@@ -143,9 +143,6 @@
 [submodule "pasteAsComment"]
 	path = pasteAsComment
 	url = https://github.com/stla/pasteascomment
-[submodule "polyhedralCubature"]
-	path = polyhedralCubature
-	url = https://github.com/stla/polyhedralcubature
 [submodule "prettifyAddins"]
 	path = prettifyAddins
 	url = https://github.com/stla/prettifyaddins
@@ -203,9 +200,6 @@
 [submodule "syt"]
 	path = syt
 	url = https://github.com/stla/syt
-[submodule "tessellation"]
-	path = tessellation
-	url = https://github.com/stla/tessellation
 [submodule "thorn"]
 	path = thorn
 	url = https://github.com/stla/thorn
