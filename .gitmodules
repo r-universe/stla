@@ -125,9 +125,6 @@
 [submodule "jsonNormalize"]
 	path = jsonNormalize
 	url = https://github.com/stla/jsonnormalize
-[submodule "jsonStrings"]
-	path = jsonStrings
-	url = https://github.com/stla/jsonstrings
 [submodule "kantorovich"]
 	path = kantorovich
 	url = https://github.com/stla/kantorovich
