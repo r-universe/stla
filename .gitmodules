@@ -152,9 +152,6 @@
 [submodule "reactCheckbox"]
 	path = reactCheckbox
 	url = https://github.com/stla/reactcheckbox
-[submodule "resultant"]
-	path = resultant
-	url = https://github.com/stla/resultant
 [submodule "shinyChakraSlider"]
 	path = shinyChakraSlider
 	url = https://github.com/stla/shinychakraslider
