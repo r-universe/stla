@@ -134,9 +134,6 @@
 [submodule "pasteAsComment"]
 	path = pasteAsComment
 	url = https://github.com/stla/pasteascomment
-[submodule "prettifyAddins"]
-	path = prettifyAddins
-	url = https://github.com/stla/prettifyaddins
 [submodule "pylintR"]
 	path = pylintR
 	url = https://github.com/stla/pylintr
