@@ -56,9 +56,6 @@
 [submodule "colorsGen"]
 	path = colorsGen
 	url = https://github.com/stla/colorsgen
-[submodule "concom"]
-	path = concom
-	url = https://github.com/stla/concom
 [submodule "cppcheckR"]
 	path = cppcheckR
 	url = https://github.com/stla/cppcheckr
