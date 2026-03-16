@@ -8,12 +8,6 @@
 [submodule "DateTimeRangePicker"]
 	path = DateTimeRangePicker
 	url = https://github.com/stla/datetimerangepicker
-[submodule "EigenR"]
-	path = EigenR
-	url = https://github.com/stla/eigenr
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/stla/hypergeomat
 [submodule "JSconsole"]
 	path = JSconsole
 	url = https://github.com/stla/jsconsole
@@ -23,12 +17,6 @@
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/stla/owenq
-[submodule "RCDT"]
-	path = RCDT
-	url = https://github.com/stla/rcdt
-[submodule "RationalMatrix"]
-	path = RationalMatrix
-	url = https://github.com/stla/rationalmatrix
 [submodule "RcppColors"]
 	path = RcppColors
 	url = https://github.com/stla/rcppcolors
@@ -74,15 +62,9 @@
 [submodule "gbeta"]
 	path = gbeta
 	url = https://github.com/stla/gbeta
-[submodule "gfiExtremes"]
-	path = gfiExtremes
-	url = https://github.com/stla/gfiextremes
 [submodule "gfiUltra"]
 	path = gfiUltra
 	url = https://github.com/stla/gfiultra
-[submodule "giacR"]
-	path = giacR
-	url = https://github.com/stla/giacr
 [submodule "gmpoly"]
 	path = gmpoly
 	url = https://github.com/stla/gmpoly
@@ -101,9 +83,6 @@
 [submodule "intmap"]
 	path = intmap
 	url = https://github.com/stla/intmap
-[submodule "jack"]
-	path = jack
-	url = https://github.com/stla/jackr
 [submodule "jacobi"]
 	path = jacobi
 	url = https://github.com/stla/jacobi
@@ -137,15 +116,9 @@
 [submodule "qsplines"]
 	path = qsplines
 	url = https://github.com/stla/qsplines
-[submodule "qspray"]
-	path = qspray
-	url = https://github.com/stla/qspray
 [submodule "rAmCharts4"]
 	path = rAmCharts4
 	url = https://github.com/stla/ramcharts4
-[submodule "ratioOfQsprays"]
-	path = ratioOfQsprays
-	url = https://github.com/stla/ratioofqsprays
 [submodule "reactCheckbox"]
 	path = reactCheckbox
 	url = https://github.com/stla/reactcheckbox
@@ -176,9 +149,6 @@
 [submodule "swipeR"]
 	path = swipeR
 	url = https://github.com/stla/swiper
-[submodule "symbolicQspray"]
-	path = symbolicQspray
-	url = https://github.com/stla/symbolicqspray
 [submodule "syt"]
 	path = syt
 	url = https://github.com/stla/syt
