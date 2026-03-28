@@ -74,9 +74,6 @@
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/stla/html2r
-[submodule "interpolation"]
-	path = interpolation
-	url = https://github.com/stla/interpolation
 [submodule "interpolators"]
 	path = interpolators
 	url = https://github.com/stla/interpolators
