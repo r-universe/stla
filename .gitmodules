@@ -35,9 +35,6 @@
 [submodule "braids"]
 	path = braids
 	url = https://github.com/stla/braids
-[submodule "bratteli"]
-	path = bratteli
-	url = https://github.com/stla/brattelir
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/stla/cascadeselect
@@ -92,9 +89,6 @@
 [submodule "jsonNormalize"]
 	path = jsonNormalize
 	url = https://github.com/stla/jsonnormalize
-[submodule "kantorovich"]
-	path = kantorovich
-	url = https://github.com/stla/kantorovich
 [submodule "matrixsampling"]
 	path = matrixsampling
 	url = https://github.com/stla/matrixsampling
